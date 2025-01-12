@@ -11,6 +11,7 @@
 | [Chapter 3: Software Testing Fundamentals](https://github.com/astral-fate/SE202-Software-Quality-Assurance/tree/main/Lecture%203) | • Introduction to software testing<br>• Key testing concepts and definitions<br>• Types of testing (Manual vs Automated)<br>• Testing approaches (White Box, Black Box, Grey Box)<br>• Testing levels (Unit, Integration, System, Acceptance)<br>• Examples of functional and non-functional testing |
 | [Chapter 4: Software Testing Life Cycle](https://github.com/astral-fate/SE202-Software-Quality-Assurance/tree/main/Lecture%204) | • Introduction to Testing Life Cycle<br>• Requirement Analysis phase<br>• Test Planning phase<br>• Test Case Development phase<br>• Environment Setup phase<br>• Test Execution phase<br>• Test Closure phase<br>• Testing Process Management |
 | [Chapter 5: Automation Testing](https://github.com/astral-fate/SE202-Software-Quality-Assurance/tree/main/Lecture%205) | • Introduction to Automation Testing<br>• Manual vs Automated Testing<br>• Types of tests to automate first<br>• Tests that should remain manual<br>• Automation testing frameworks<br>• Popular automation tools<br>• Advantages and disadvantages of automation testing<br>• Best practices for test automation |
+| [Chapter 6: Testing plan & Testing Case](https://github.com/astral-fate/SE202-Software-Quality-Assurance/tree/main/Lecture%206) | |
 
 
 # Grading System
