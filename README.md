@@ -21,7 +21,7 @@
 
 ## Article Questions 
 
-1- What is the role of SQA in SDLC? <
+1- What is the role of SQA in SDLC? 
 
 2- What is Software Quality Assurance?
 
