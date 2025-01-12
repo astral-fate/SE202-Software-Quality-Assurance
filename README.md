@@ -35,7 +35,6 @@
 
 7- What is the Non Functional Testing types? 
 
-3
 8- What is the Advantages of Automation Testing? 
 
 9- What is the Automation Testing types? 
