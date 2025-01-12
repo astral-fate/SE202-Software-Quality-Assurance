@@ -17,3 +17,26 @@
 
 - Midterm: 30 grade
 - Assignment 
+
+
+## Article Questions 
+
+1- What is the role of SQA in SDLC? <
+
+2- What is Software Quality Assurance?
+
+3- What is the Types of Test Plans?
+
+4- What is the Levels of Software Testing? 
+
+5- What is the Test Approaches ? 
+
+6- Why Transform From Manual to Automated Testing? 
+
+7- What is the Non Functional Testing types? 
+
+3
+8- What is the Advantages of Automation Testing? 
+
+9- What is the Automation Testing types? 
+
